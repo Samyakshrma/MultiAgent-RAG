@@ -28,8 +28,8 @@ multi_agent_rag/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/samyakshrma/multi_agent_rag.git
-cd multi_agent_rag
+git clone https://github.com/Samyakshrma/MultiAgent-RAG.git
+cd MultiAgent-RAG
 ```
 
 ### 2. Create and Activate Virtual Environment
